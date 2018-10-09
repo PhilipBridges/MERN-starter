@@ -147,7 +147,6 @@ router.delete(
   "/comment/:post_id/:comment_id",
   passport.authenticate("jwt", { session: false }),
   (req, res) => {
-    
     Post.findById(req.params.post_id)
       .then(post => {
         if (

@@ -1,7 +1,7 @@
 # MERN-starter
 Full stack MERN plate with basic user interaction.
 
-Go to the config folder and change your ENV variable values to use.
+Go to the config folder and change your ENV variable values to whatever you need.
 
 Preview @ https://pbmern.herokuapp.com/
 
